@@ -5,6 +5,9 @@ This is the code for the paper 'Essential Tensor Learning for Multi-view Spectra
   title={Essential tensor learning for multi-view spectral clustering},
   author={Wu, Jianlong and Lin, Zhouchen and Zha, Hongbin},
   journal={{IEEE} Transactions on Image Processing},
+  volume={28},
+  number={12},
+  pages={5910-5922},
   year={2019},
 }
 
@@ -22,6 +25,8 @@ This is the code for the paper 'Essential Tensor Learning for Multi-view Spectra
   title={On unifying multi-view self-representations for clustering by tensor multi-rank minimization},
   author={Xie, Yuan and Tao, Dacheng and Zhang, Wensheng and Liu, Yan and Zhang, Lei and Qu, Yanyun},
   journal={International Journal of Computer Vision},
-  pages={1-23},
+  volume={126},
+  number={11},
+  pages={1157-1179},
   year={2018},
 }
